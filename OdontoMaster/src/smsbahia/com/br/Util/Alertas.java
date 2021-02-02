@@ -10,7 +10,7 @@ public class Alertas {
 		String Json="{\"Serial\": \"5M53A1A\","
 				+ "\"Ws\": \"04\","
 				+ "\"User\": \"smsbahia\","
-				+ "\"Token\": \"iURfsmx-6JTEaRAYYAqTzztTwc_h4XKJdthxPMyz\", "
+				+ "\"Token\": \"TOKEN\", "
 				+ "\"Json\": {\"messages\": ["
 				+ "{\"destination\":\"5571981416558\"},"
 				+ "{\"destination\":\"5571992374904\"}, "
