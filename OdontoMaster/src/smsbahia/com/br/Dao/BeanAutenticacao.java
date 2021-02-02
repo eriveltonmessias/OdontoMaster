@@ -2,8 +2,8 @@ package smsbahia.com.br.Dao;
 
 public class BeanAutenticacao {
 
-	private String usuario="smsbahia";
-	private String senha="ba094ucs";
+	private String usuario="[USER]";
+	private String senha="[SENHA]";
 	private String agendamento="";
 	
 	
